@@ -23,16 +23,19 @@ Los estudiantes se almacenan en una lista de diccionarios con la siguiente estru
 "
 
 ##Requisitos
+
 Python 3.6 o superior
 
 Consola o terminal para ejecutar scripts interactivos
 
 -Cómo usar
+
 Clona este repositorio o descarga el archivo gestion_estudiantes.py.
 
 Abre una terminal y ejecuta el archivo:
 
 -Usa el menú para interactuar con el sistema.
+
 1. Registrar estudiante
 2. Consultar estudiante
 3. Actualizar notas
@@ -41,6 +44,7 @@ Abre una terminal y ejecuta el archivo:
 6. Salir
 
 ##Validaciones implementadas
+
 ID: único y numérico.
 
 Nombre: solo letras y espacios.
