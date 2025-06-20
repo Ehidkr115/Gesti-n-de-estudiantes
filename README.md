@@ -17,8 +17,11 @@ Los estudiantes se almacenan en una lista de diccionarios con la siguiente estru
 
 "
   "id": "123",
+  
   "nombre": "Juan Pérez",
+  
   "edad": 20,
+  
   "notas": [4.5, 3.7, 5.0]
 "
 
